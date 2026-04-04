@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Java, Javascript, Angular, Html & CSS
-- ⚡ Fun fact: Sou colecionador de quadrinhos e crio conteúdo sobre isso no Instagram - @comiczados
 
 <div>
   <a href="https://github.com/LucasTavares3">
