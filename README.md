@@ -3,10 +3,6 @@
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Java, Javascript, Angular, Html & CSS
 
-<div>
-  <a href="https://github.com/LucasTavares3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasTavares3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
 <img height="180em" src="https://media.tenor.com/NngS_U0rYAkAAAAC/batman.gif">
   ##
